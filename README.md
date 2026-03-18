@@ -32,6 +32,19 @@ The lab simulates a real-world IT support environment where users submit tickets
 
 ---
 
+## Pre-Setup Steps (osTicket Lab - VirtualBox)
+
+Follow these steps before using osTicket in your lab environment:
+
+- Log into the Domain Controller and configure a **static IPv4 address**
+- Create a **domain admin user** in Active Directory Users and Computers
+- Create a virtual machine named **Desktop1** and join it to the domain (**GetHired.com**)
+- Configure Desktop1’s IPv4 settings to use the **Domain Controller (DC-2019) as the DNS server**
+
+Your environment is now ready for osTicket setup.
+
+---
+
 ## How It Works
 
 1. User enters:
