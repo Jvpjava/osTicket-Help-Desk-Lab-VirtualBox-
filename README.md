@@ -1,4 +1,4 @@
-# osTicket Help Desk Lab (VirtualBox)
+# osTicket Help Desk Lab Post Installation (VirtualBox)
 
 <p align="center">
   <img src="img/Osticket Project Cover.png" width="900">
