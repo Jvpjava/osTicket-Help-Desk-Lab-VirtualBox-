@@ -86,14 +86,15 @@ Your environment is now ready for osTicket setup.
 DC-2019 → 192.168.56.104
 
 ```
+[Click Here to install IIS, PHP, MySQL, Etc.](https://github.com/Jvpjava/osTicket-Help-Desk-Deployment-and-Incident-Management-Lab)
 
-3. Client sends HTTP request (Port 80)
-
-4. IIS (Web Server) receives the request
-
-5. osTicket processes request using PHP + MySQL
-
-6. Web page is returned to the client
+  3. Client sends HTTP request (Port 80)
+  
+  4. IIS (Web Server) receives the request
+  
+  5. osTicket processes request using PHP + MySQL
+  
+  6. Web page is returned to the client
 
 **Key Concept:**  
 Even though a hostname is used, communication happens using the IP address after DNS resolution.
@@ -217,7 +218,6 @@ All osTicket Agents
 
 ### 🔹 Users (Customers)
 - Karen  
-- Ken
   
 Switch to agent panel 
 <p align="center">
@@ -227,7 +227,7 @@ Create Karen
 <p align="center">
   <img src="img/14. Create a User.png" width="900">
 </p>
-Create Ken
+Created Karen
 <p align="center">
   <img src="img/14. Created Karen User.png" width="900">
 </p>
@@ -264,13 +264,19 @@ All Service plans
 </p>
 
 ---
-
-### 🔹 Help Topics
+###  Issues, Request, Inquiry, and Outages
 - Business Critical Outage  
 - Personal Computer Issues  
 - Equipment Request  
 - Password Reset  
-- General Inquiry  
+- General Inquiry
+
+<p align="center">
+  <img src="img/16. Help Topics.png" width="900">
+</p>
+<p align="center">
+  <img src="img/16. All Help Topics Created.png" width="900">
+</p>
 
 ---
 
