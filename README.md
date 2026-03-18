@@ -1,13 +1,13 @@
-# 🛠️ osTicket Help Desk Lab (VirtualBox)
+# osTicket Help Desk Lab (VirtualBox)
 
-## 📌 Project Overview
+## Project Overview
 This project demonstrates the deployment and configuration of an **osTicket help desk system** in a virtualized lab environment using **VirtualBox**, **Windows Server 2019**, and a **Windows 10 client machine**.
 
 The lab simulates a real-world IT support environment where users submit tickets and support agents manage, prioritize, and resolve them.
 
 ---
 
-## 🖥️ Lab Environment
+## Lab Environment
 
 | Component        | Details                          |
 |-----------------|----------------------------------|
@@ -19,7 +19,7 @@ The lab simulates a real-world IT support environment where users submit tickets
 
 ---
 
-## 🌐 Network Architecture
+## Network Architecture
 
 <p align="center">
   <img src="img/1. Network Topology.png" width="900">
@@ -27,7 +27,7 @@ The lab simulates a real-world IT support environment where users submit tickets
 
 ---
 
-## 🔎 How It Works
+## How It Works
 
 1. User enters:
 ```
