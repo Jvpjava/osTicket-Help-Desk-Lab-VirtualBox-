@@ -1,7 +1,7 @@
 # osTicket Help Desk Lab (VirtualBox)
 
 <p align="center">
-  <img src="img/Osticket Project Cover" width="900">
+  <img src="img/Osticket Project Cover.png" width="900">
 </p>
 
 
