@@ -37,9 +37,24 @@ The lab simulates a real-world IT support environment where users submit tickets
 Follow these steps before using osTicket in your lab environment:
 
 - Log into the Domain Controller and configure a **static IPv4 address**
+<p align="center">
+  <img src="img/1. Domain Controller Static Ip Address.png" width="900">
+</p>
 - Create a **domain admin user** in Active Directory Users and Computers
+<p align="center">
+  <img src="img/3. Signin to Desktop1 with user Credentials.png" width="900">
+</p>
 - Create a virtual machine named **Desktop1** and join it to the domain (**GetHired.com**)
+<p align="center">
+  <img src="img/5. Domain Joined Computer GETHIRED.COM.png" width="900">
+</p>
+<p align="center">
+  <img src="img/4. Desktop1 Computer has to be domain joined computer.png" width="900">
+</p>
 - Configure Desktop1’s IPv4 settings to use the **Domain Controller (DC-2019) as the DNS server**
+<p align="center">
+  <img src="img/2. Domain Joined Computer point to DC Server.png" width="900">
+</p>
 
 Your environment is now ready for osTicket setup.
 
