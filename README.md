@@ -1,5 +1,10 @@
 # osTicket Help Desk Lab (VirtualBox)
 
+<p align="center">
+  <img src="img/Osticket Project Cover" width="900">
+</p>
+
+
 ## Project Overview
 This project demonstrates the deployment and configuration of an **osTicket help desk system** in a virtualized lab environment using **VirtualBox**, **Windows Server 2019**, and a **Windows 10 client machine**.
 
