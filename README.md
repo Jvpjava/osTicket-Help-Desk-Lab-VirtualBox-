@@ -147,24 +147,34 @@ Used to control ticket visibility:
 - SysAdmins  
 - Support  
 - Maintenance  
-
+<p align="center">
+  <img src="img/10. Departments.png" width="900">
+</p>
+Creating System Administrator's Department
+<p align="center">
+  <img src="img/10. Creating new deparment.png" width="900">
+</p>
+Created System Administrator's Department
+<p align="center">
+  <img src="img/10. System Administration Created.png" width="900">
+</p>
 ---
 
 ### 🔹 Teams
 Cross-department collaboration:
 - Online Banking  
 - Level 1 Support  
-
----
-
-### 🔹 User Settings
-- Disabled guest ticket creation  
-- Enabled:
-```
-
-Registration Required
-
-```
+<p align="center">
+  <img src="img/11. Teams.png" width="900">
+</p>
+Creating System Online Banking Team
+<p align="center">
+  <img src="img/11. Creating Team.png width="900">
+</p>
+Created Online Banking 
+<p align="center">
+  <img src="img/11. Team Created Online Banking.png" width="900">
+</p>
 
 ---
 
@@ -174,6 +184,46 @@ Registration Required
 | Jane | SysAdmins  |
 | John | Support    |
 
+Creating Jane Doe as an agent
+<p align="center">
+  <img src="img/ 12. Creating an Agent.png" width="900">
+</p>
+Creating Jane Doe's password
+<p align="center">
+  <img src="img/12. Agent Password.png" width="900">
+</p>
+Give Jane Doe Supreme admni rights
+<p align="center">
+  <img src="img/12. Jane Supreme Admini Access.png" width="900">
+</p>
+Adding Jane doe to the Online banking team
+<p align="center">
+  <img src="img/12. Jane Doe Teams.png" width="900">
+</p>
+
+
+13. Creating Agent.png
+Add files via upload
+17 hours ago
+13. John Doe Department.png
+Add files via upload
+17 hours ago
+13. osTicket Agents.png
+
+
+
+Creating John Doe as an agent
+<p align="center">
+  <img src="img/13. Creating Agent.png" width="900">
+</p>
+Adding John Doe's to a Department
+<p align="center">
+  <img src="img/13. John Doe Department.png" width="900">
+</p>
+All osTicket Agents
+<p align="center">
+  <img src="img/13. osTicket Agents.png" width="900">
+</p>
 ---
 
 ### 🔹 Users (Customers)
