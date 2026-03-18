@@ -169,7 +169,7 @@ Cross-department collaboration:
 </p>
 Creating System Online Banking Team
 <p align="center">
-  <img src="img/11. Creating Team.png width="900">
+  <img src="img/11. Creating Team.png" width="900">
 </p>
 Created Online Banking 
 <p align="center">
@@ -252,7 +252,7 @@ Create SLA level Service A
 </p>
 Create SLA level Service B
 <p align="center">
-  <img src="img/15. Service B Created.png width="900">
+  <img src="img/15. Service B Created.png" width="900">
 </p>
 Create SLA level Service C
 <p align="center">
