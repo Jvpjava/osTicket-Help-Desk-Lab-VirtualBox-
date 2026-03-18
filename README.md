@@ -21,7 +21,9 @@ The lab simulates a real-world IT support environment where users submit tickets
 
 ## 🌐 Network Architecture
 
-<img src="YOUR_IMAGE_NAME_HERE" width="700"/>
+<p align="center">
+  <img src="img/1. Network Topology" width="900">
+</p>
 
 ---
 
