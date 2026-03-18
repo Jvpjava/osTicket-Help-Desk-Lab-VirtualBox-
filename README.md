@@ -187,7 +187,7 @@ Created Online Banking
 
 Creating Jane Doe as an agent
 <p align="center">
-  <img src="img/ 12. Creating an Agent.png" width="900">
+  <img src="img/12. Creating an Agent.png" width="900">
 </p>
 Creating Jane Doe's password
 <p align="center">
@@ -291,38 +291,3 @@ All Service plans
 - SLA Management
 
 ---
-
-## 📊 Key Takeaway
-
-This lab demonstrates how enterprise environments operate:
-- DNS resolves hostnames to IP addresses  
-- Web traffic flows over HTTP (Port 80)  
-- IIS hosts internal applications  
-- Domain-joined machines trust the Domain Controller  
-
----
-
-## 🚀 Why This Project Matters
-
-This project reflects a real IT help desk workflow:
-- Users submit tickets  
-- Tickets are categorized and prioritized  
-- Agents resolve issues based on SLAs  
-- The system enforces structured IT support operations  
-
----
-
-## 📂 Documentation
-
-Full lab documentation included in this repository:
-- `Lab 3 Checklist - osTicket Post-Installation Setup.pdf`
-
----
-
-## 🔧 Future Improvements
-
-- Configure email ticketing (SMTP)
-- Integrate Active Directory (LDAP authentication)
-- Enable HTTPS (SSL/TLS)
-- Deploy in cloud environment (Azure/AWS)
-```
