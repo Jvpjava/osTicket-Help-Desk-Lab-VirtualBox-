@@ -63,16 +63,21 @@ Your environment is now ready for osTicket setup.
 ## How It Works
 
 1. User enters:
+   
 ```
 
 [http://DC-2019/osTicket](http://DC-2019/osTicket)
 
 ```
 
+<p align="center">
+  <img src="img/6. From Desktop1 Signin as JuniorP.png" width="900">
+</p>
+
 2. DNS resolves hostname → IP  
 ```
 
-DC-2019 → 192.168.x.x
+DC-2019 → 192.168.56.104
 
 ```
 
