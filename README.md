@@ -201,17 +201,6 @@ Adding Jane doe to the Online banking team
   <img src="img/12. Jane Doe Teams.png" width="900">
 </p>
 
-
-13. Creating Agent.png
-Add files via upload
-17 hours ago
-13. John Doe Department.png
-Add files via upload
-17 hours ago
-13. osTicket Agents.png
-
-
-
 Creating John Doe as an agent
 <p align="center">
   <img src="img/13. Creating Agent.png" width="900">
@@ -228,7 +217,20 @@ All osTicket Agents
 
 ### 🔹 Users (Customers)
 - Karen  
-- Ken  
+- Ken
+  
+Switch to agent panel 
+<p align="center">
+  <img src="img/14. Agent Panel.png" width="900">
+</p>
+Create Karen
+<p align="center">
+  <img src="img/14. Create a User.png" width="900">
+</p>
+Create Ken
+<p align="center">
+  <img src="img/14. Created Karen User.png" width="900">
+</p>
 
 ---
 
@@ -239,6 +241,27 @@ All osTicket Agents
 | Sev-A    | 1 hour       | 24/7            |
 | Sev-B    | 4 hours      | 24/7            |
 | Sev-C    | 8 hours      | Business Hours  |
+
+Go Back to Admin Panel and go to SLA
+<p align="center">
+  <img src="img/15. Admin Panel SLA.png" width="900">
+</p>
+Create SLA level Service A
+<p align="center">
+  <img src="img/15. Service A Created.png" width="900">
+</p>
+Create SLA level Service B
+<p align="center">
+  <img src="img/15. Service B Created.png width="900">
+</p>
+Create SLA level Service C
+<p align="center">
+  <img src="img/15. Service C Created.png" width="900">
+</p>
+All Service plans
+<p align="center">
+  <img src="img/15. All Service Plans.png" width="900">
+</p>
 
 ---
 
