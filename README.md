@@ -74,6 +74,12 @@ Your environment is now ready for osTicket setup.
   <img src="img/6. From Desktop1 Signin as JuniorP.png" width="900">
 </p>
 
+* Welcome to osTicket
+
+<p align="center">
+  <img src="img/7. Welcome to osTicket.png" width="900">
+</p>
+
 2. DNS resolves hostname → IP  
 ```
 
@@ -101,19 +107,39 @@ Even though a hostname is used, communication happens using the IP address after
 | End User   | http://DC-2019/osTicket |
 | Admin Panel| http://DC-2019/osTicket/scp/login.php |
 
+<p align="center">
+  <img src="img/8. Admin Panel.png" width="900">
+</p>
+
+<p align="center">
+  <img src="img/8. Admin Panel 2.png" width="900">
+</p>
+
 ---
 
 ## ⚙️ Post-Installation Configuration
 
 ### 🔹 Roles (Permissions)
+<p align="center">
+  <img src="img/9. Roles.png" width="900">
+</p>
 - Created role: **Supreme Admin**
+
+<p align="center">
+  <img src="img/9. Add new role.png" width="900">
+</p>
+
 - Permissions:
 - Assign tickets
 - Edit tickets
 - Delete tickets
 - Merge tickets
-- Internal notes
-
+<p align="center">
+  <img src="img/9. Full Control.png" width="900">
+</p>
+<p align="center">
+  <img src="img/9. Supreme Admin Role Created.png" width="900">
+</p>
 ---
 
 ### 🔹 Departments
