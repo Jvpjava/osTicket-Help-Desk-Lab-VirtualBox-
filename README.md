@@ -110,7 +110,7 @@ Even though a hostname is used, communication happens using the IP address after
 <p align="center">
   <img src="img/8. Admin Panel.png" width="900">
 </p>
-
+Admin Panel Backend
 <p align="center">
   <img src="img/8. Admin Panel 2.png" width="900">
 </p>
