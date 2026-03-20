@@ -325,6 +325,7 @@ Login to DC-2019 Domain Controller
     - Admin users like John Doe and Jane Doe will use Helpdesk1 domain account to help end users.
     - If you want you can create individual credentials in AD for John Doe and Jane Doe.
     - This is for lab puroses to make things run faster.
+ 
 Go to Server Manager
 <img src="img/17. Server Manager.png" width="700">
 Go To Active Directory Users and Computers
