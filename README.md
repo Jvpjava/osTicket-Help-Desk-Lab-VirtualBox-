@@ -50,22 +50,22 @@ Follow these steps before using osTicket in your lab environment:
 - I will show the example with Desktop2.
 
 I then created a new Windows 10 virtual machine named **Desktop2** in VirtualBox with:
-<p align="center"><img src="images/4. Create Windows VM.png" width="700"></p>
+<p align="center"><img src="img/4. Create Windows VM.png" width="700"></p>
 
 - **2 CPUs**
 - **4 GB RAM**
-<p align="center"><img src="images/4. Windows VM Ram-CPU.png" width="700"></p>
+<p align="center"><img src="img/4. Windows VM Ram-CPU.png" width="700"></p>
 - **50 GB storage**
-<p align="center"><img src="images/5. Windows VM Storage.png" width="700"></p>
+<p align="center"><img src="img/5. Windows VM Storage.png" width="700"></p>
 
 Now Windows Installation
-<p align="center"><img src="images/6. Start Your VM.png" width="700"></p>
-<p align="center"><img src="images/6. OS Setup.png" width="700"></p>
-<p align="center"><img src="images/6. OS Windows Pro.png" width="700"></p>
-<p align="center"><img src="images/6. OS Custom Drive.png" width="700"></p>
-<p align="center"><img src="images/6. OS Installation.png" width="700"></p>
-<p align="center"><img src="images/6. Desktop2 PC Name.png" width="700"></p>
-<p align="center"><img src="images/6. Windows Getting Ready.png" width="700"></p>
+<p align="center"><img src="img/6. Start Your VM.png" width="700"></p>
+<p align="center"><img src="img/6. OS Setup.png" width="700"></p>
+<p align="center"><img src="img/6. OS Windows Pro.png" width="700"></p>
+<p align="center"><img src="img/6. OS Custom Drive.png" width="700"></p>
+<p align="center"><img src="img/6. OS Installation.png" width="700"></p>
+<p align="center"><img src="img/6. Desktop2 PC Name.png" width="700"></p>
+<p align="center"><img src="img/6. Windows Getting Ready.png" width="700"></p>
 
 
 After installation, I configured the network, pointed IPv4 DNS toward the domain controller, renamed the machine, and joined it to the domain.  
@@ -74,24 +74,22 @@ This allowed the new workstation to authenticate against Active Directory and ap
 ## Workstation Domain Configuration
 
 Configured VirtualBox network adapter to use Host-Only Adapter for isolated lab communication
-<p align="center"><img src="images/7. VB Network Settings.png" width="700"></p>
+<p align="center"><img src="img/7. VB Network Settings.png" width="700"></p>
 Renamed the virtual machine to Desktop2 for proper identification in the domain
-<p align="center"><img src="images/7. Change Computer Name 2.png" width="700"></p>
+<p align="center"><img src="img/7. Change Computer Name 2.png" width="700"></p>
 Retrieved the Domain Controller’s IP address (DC-2019) using ipconfig /all
-<p align="center"><img src="images/7. DC-2019 IPV4 Address.png" width="700"></p>
+<p align="center"><img src="img/7. DC-2019 IPV4 Address.png" width="700"></p>
 Set Desktop2 IPv4 DNS to point to the Domain Controller for domain resolution
-<p align="center"><img src="images/7. Desktop Points DC-2019.png" width="700"></p>
+<p align="center"><img src="img/7. Desktop Points DC-2019.png" width="700"></p>
 Joined Desktop2 from a workgroup to the Active Directory domain
-<p align="center"><img src="images/7. Desktop2 Workgroup to Domain.png" width="700"></p>
-<p align="center"><img src="images/7. Domain Signin.png" width="700"></p>
-<p align="center"><img src="images/7. Welcome to GetHired.com.png" width="700"></p>
-<p align="center"><img src="images/7. Verification for Domain Network.png" width="700"></p>
+<p align="center"><img src="img/7. Desktop2 Workgroup to Domain.png" width="700"></p>
+<p align="center"><img src="img/7. Domain Signin.png" width="700"></p>
+<p align="center"><img src="img/7. Welcome to GetHired.com.png" width="700"></p>
+<p align="center"><img src="img/7. Verification for Domain Network.png" width="700"></p>
 Verified that Desktop2 successfully appears in Active Directory (ADUC) under domain computers
-<p align="center"><img src="images/7. AD Service Computers - Desktop2.png" width="700"></p>
+<p align="center"><img src="img/7. AD Service Computers - Desktop2.png" width="700"></p>
 VM is running and operating
-<p align="center"><img src="images/7. VM is running and operating.png" width="700"></p>
-
-
+<p align="center"><img src="img/7. VM is running and operating.png" width="700"></p>
 
 Your environment is now ready for osTicket setup.
 
