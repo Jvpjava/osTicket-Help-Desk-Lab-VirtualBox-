@@ -320,6 +320,17 @@ All Service plans
 
 ---
 ###  Create end users and admin user in Active Directory
+Login to DC-2019 Domain Controller
+<img src="img/17. Server Manager.png" width="900">
+<img src="img/17. Active Directory Users and Computers.png" width="900">
+<img src="img/17. AD List.png" width="900">
+<img src="img/17. New User.png" width="900">
+<img src="img/18. Helpdesk1 Credentials Username.png" width="900">
+<img src="img/18. Helpdesk1 Credentials Password.png" width="900">
+<img src="img/19. helpdesk1 Properties.png" width="900">
+
+<img src="img/19. helpdesk1 Member Of.png" width="900">
+
 - Admin users will use Desktop1  computer and have more access such as admin in the domain.
     - Admin users like John Doe and Jane Doe will use Helpdesk1 domain account to help end users.
     - If you want you can create individual credentials in AD for John Doe and Jane Doe.
