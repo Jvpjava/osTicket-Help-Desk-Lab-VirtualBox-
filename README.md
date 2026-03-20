@@ -329,14 +329,14 @@ All Service plans
   - If you want you can create individual credentials in AD for John Doe and Jane Doe.
   - This is for lab puroses to make things run faster.
     
-<p align="center"><img src="images/8. AD List .png" width="700"></p>
-<p align="center"><img src="images/8. KarenV Created.png" width="700"></p>
-<p align="center"><img src="images/8. KarenV Password.png" width="700"></p>
-<p align="center"><img src="images/8. New User KarenV.png" width="700"></p>
-<p align="center"><img src="images/8. New User KenV.png" width="700"></p>
-<p align="center"><img src="images/9. Signin To Domain.png" width="700"></p>
-<p align="center"><img src="images/9. Gethired-KarenV.png" width="700"></p>
-<p align="center"><img src="images/9. KarenV in Windows Machine.png" width="700"></p>
+<p align="center"><img src="img/8. AD List .png" width="700"></p>
+<p align="center"><img src="img/8. KarenV Created.png" width="700"></p>
+<p align="center"><img src="img/8. KarenV Password.png" width="700"></p>
+<p align="center"><img src="img/8. New User KarenV.png" width="700"></p>
+<p align="center"><img src="img/8. New User KenV.png" width="700"></p>
+<p align="center"><img src="img/9. Signin To Domain.png" width="700"></p>
+<p align="center"><img src="img/9. Gethired-KarenV.png" width="700"></p>
+<p align="center"><img src="img/9. KarenV in Windows Machine.png" width="700"></p>
 ---
 ## 🎯 Skills Demonstrated
 
