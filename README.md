@@ -323,7 +323,11 @@ All Service plans
 </p>
 
 ---
-
+###  Create end users in Active Directory
+- End users will use desktop 2 and have individual accounts in the domain.
+- Admin users like John Doe and Jane Doe will use Helpdesk1 domain account to help end users.
+  - If you want you can create individual credentials in AD for John Doe and Jane Doe.
+  - This is for lab puroses to make things run faster.
 ## 🎯 Skills Demonstrated
 
 - Active Directory (Domain Services)
