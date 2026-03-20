@@ -45,21 +45,33 @@ Follow these steps before using osTicket in your lab environment:
   <img src="img/3. Signin to Desktop1 with user Credentials.png" width="900">
 </p>
 - Create a virtual machine named **Desktop1 & Desktop2** and join both machines to domain (**GetHired.com**).
-- Create a VM in virtualbox 
+
+
+- Create a VM in virtualbox
+
 - VM Specs
     - 2 Cpu's
     - 4GB of Ram
     - 50 GB of storage
     - Network Settings: Hostonly adapter
 - Start the VM
+  
 - Pick Windows Pro
+  
 - Pick Custom Storage/allocation
+  
 - Go through windows installation process
+  
 - Change the computer name in system settings and restart the machine.
+  
 - Have the machine Point to the domain controller through ipv4 settings.
+  
 - Go to system settings -> Advnace settings -> General -> From workgroup to Domain
+  
 - Use GetHired.com domain name
+  
 - Sign in with domain credentials either using DC-2019 or an admin credentials.
+  
 - Restart the VM it should be up and running.
 <p align="center">
   <img src="img/5. Domain Joined Computer GETHIRED.COM.png" width="900">
