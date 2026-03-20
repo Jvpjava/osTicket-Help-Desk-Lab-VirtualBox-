@@ -321,27 +321,37 @@ All Service plans
 ---
 ###  Create end users and admin user in Active Directory
 Login to DC-2019 Domain Controller
-<img src="img/17. Server Manager.png" width="900">
-<img src="img/17. Active Directory Users and Computers.png" width="900">
-<img src="img/17. AD List.png" width="900">
-<img src="img/17. New User.png" width="900">
-<img src="img/18. Helpdesk1 Credentials Username.png" width="900">
-<img src="img/18. Helpdesk1 Credentials Password.png" width="900">
-<img src="img/19. helpdesk1 Properties.png" width="900">
-
-<img src="img/19. helpdesk1 Member Of.png" width="900">
-
 - Admin users will use Desktop1  computer and have more access such as admin in the domain.
     - Admin users like John Doe and Jane Doe will use Helpdesk1 domain account to help end users.
     - If you want you can create individual credentials in AD for John Doe and Jane Doe.
     - This is for lab puroses to make things run faster.
-
-Create admin users
-
+Go to Server Manager
+<img src="img/17. Server Manager.png" width="700">
+Go To Active Directory Users and Computers
+<img src="img/17. Active Directory Users and Computers.png" width="700">
+Go to Users List
+<img src="img/17. AD List.png" width="700">
+Create New User
+<img src="img/17. New User.png" width="700">
+Enter Credentials Username
+<img src="img/18. Helpdesk1 Credentials Username.png" width="700">
+Enter Credentials Password
+<img src="img/18. Helpdesk1 Credentials Password.png" width="700">
+Go to properties on the helpdesk1 user account
+<img src="img/19. helpdesk1 Properties.png" width="700">
+Go to Member of
+<img src="img/19. helpdesk1 Member Of.png" width="700">
+Add a group member
+<img src="img/19. Helpdesk1 Add Member.png" width="700">
+Add Domain Admin
+<img src="img/19 Add Domain Admin.png" width="700">
+Look at the group member list
+<img src="img/19. Member of Groups .png" width="700">
 
 - End users will use Desktop2 computer and have individual accounts in the domain.
   - You can use the same credentials we used in osTicket to create the users.
   - For Example like Karen Valerio and Ken Valerio like we did above.
+  
 Create a new user
 <p align="center"><img src="img/8. New User KarenV.png" width="700"></p>
 Karen Credentials: Username & same credentials in osTicket
