@@ -252,7 +252,12 @@ All osTicket Agents
 ---
 
 ### 🔹 Users (Customers)
-- Karen  
+- Karen Valerio
+  - Username: KarenV
+  - Email: KarenValerio@GetHired.com
+- Ken Valerio
+  - Username: KenV
+  - Email: KenValerio@GetHired.com
   
 Switch to agent panel 
 <p align="center">
