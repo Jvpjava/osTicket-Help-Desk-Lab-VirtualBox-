@@ -40,10 +40,6 @@ Follow these steps before using osTicket in your lab environment:
 <p align="center">
   <img src="img/1. Domain Controller Static Ip Address.png" width="900">
 </p>
-- Create a **domain admin user** in Active Directory Users and Computers
-<p align="center">
-  <img src="img/3. Signin to Desktop1 with user Credentials.png" width="900">
-</p>
 
 ## Create 2 virtual machines named **Desktop1 & Desktop2** and join both machines to domain (**GetHired.com**). 
 
@@ -323,14 +319,18 @@ All Service plans
 </p>
 
 ---
-###  Create end users in Active Directory
-- End users will use desktop2 computer and have individual accounts in the domain.
+###  Create end users and admin user in Active Directory
+- Admin users will use Desktop1  computer and have more access such as admin in the domain.
+    - Admin users like John Doe and Jane Doe will use Helpdesk1 domain account to help end users.
+    - If you want you can create individual credentials in AD for John Doe and Jane Doe.
+    - This is for lab puroses to make things run faster.
+
+Create admin users
+
+
+- End users will use Desktop2 computer and have individual accounts in the domain.
   - You can use the same credentials we used in osTicket to create the users.
   - For Example like Karen Valerio and Ken Valerio like we did above.
-- Admin users like John Doe and Jane Doe will use Helpdesk1 domain account to help end users.
-  - If you want you can create individual credentials in AD for John Doe and Jane Doe.
-  - This is for lab puroses to make things run faster.
-
 Create a new user
 <p align="center"><img src="img/8. New User KarenV.png" width="700"></p>
 Karen Credentials: Username & same credentials in osTicket
