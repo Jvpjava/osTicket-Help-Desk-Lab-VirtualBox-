@@ -324,18 +324,29 @@ All Service plans
 
 ---
 ###  Create end users in Active Directory
-- End users will use desktop 2 and have individual accounts in the domain.
+- End users will use desktop2 computer and have individual accounts in the domain.
+  - You can use the same credentials we used in osTicket to create the users.
+  - For Example like Karen Valerio and Ken Valerio like we did above.
 - Admin users like John Doe and Jane Doe will use Helpdesk1 domain account to help end users.
   - If you want you can create individual credentials in AD for John Doe and Jane Doe.
   - This is for lab puroses to make things run faster.
-    
-<p align="center"><img src="img/8. AD List .png" width="700"></p>
-<p align="center"><img src="img/8. KarenV Created.png" width="700"></p>
-<p align="center"><img src="img/8. KarenV Password.png" width="700"></p>
+
+Create a new user
 <p align="center"><img src="img/8. New User KarenV.png" width="700"></p>
+Karen Credentials: Username & same credentials in osTicket
+<p align="center"><img src="img/8. KarenV Created.png" width="700"></p>
+Karens Credentials: Password
+<p align="center"><img src="img/8. KarenV Password.png" width="700"></p>
+Check Active Directory Users List to see if the User is created
+<p align="center"><img src="img/8. AD List .png" width="700"></p>
+Same Process applies for Ken Valerio & same credentials in osTicket
 <p align="center"><img src="img/8. New User KenV.png" width="700"></p>
+Start Desktop2
 <p align="center"><img src="img/9. Signin To Domain.png" width="700"></p>
+Sign into the domain Ex: GetHired\KarenV
+  - Samething applies to Ken: Gethired\KenV
 <p align="center"><img src="img/9. Gethired-KarenV.png" width="700"></p>
+Karen Should logged into the domain computer as a domain user.
 <p align="center"><img src="img/9. KarenV in Windows Machine.png" width="700"></p>
 ---
 ## 🎯 Skills Demonstrated
