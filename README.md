@@ -328,24 +328,34 @@ Login to DC-2019 Domain Controller
  
 Go to Server Manager
 <img src="img/17. Server Manager.png" width="700">
+
 Go To Active Directory Users and Computers
 <img src="img/17. Active Directory Users and Computers.png" width="700">
+
 Go to Users List
 <img src="img/17. AD List.png" width="700">
+
 Create New User
 <img src="img/17. New User.png" width="700">
+
 Enter Credentials Username
 <img src="img/18. Helpdesk1 Credentials Username.png" width="700">
+
 Enter Credentials Password
 <img src="img/18. Helpdesk1 Credentials Password.png" width="700">
+
 Go to properties on the helpdesk1 user account
 <img src="img/19. helpdesk1 Properties.png" width="700">
+
 Go to Member of
 <img src="img/19. helpdesk1 Member Of.png" width="700">
+
 Add a group member
 <img src="img/19. Helpdesk1 Add Member.png" width="700">
+
 Add Domain Admin
 <img src="img/19 Add Domain Admin.png" width="700">
+
 Look at the group member list
 <img src="img/19. Member of Groups .png" width="700">
 
