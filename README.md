@@ -44,8 +44,7 @@ Follow these steps before using osTicket in your lab environment:
 <p align="center">
   <img src="img/3. Signin to Desktop1 with user Credentials.png" width="900">
 </p>
-- Create a virtual machine named **Desktop1 & Desktop2** and join both machines to domain (**GetHired.com**).
-
+- Create 2 virtual machines named **Desktop1 & Desktop2** and join both machines to domain (**GetHired.com**).
 
 - Create a VM in virtualbox
 
