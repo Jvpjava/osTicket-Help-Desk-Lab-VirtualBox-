@@ -390,7 +390,11 @@ Sign into the domain Ex: GetHired\KarenV
 <p align="center"><img src="img/9. Gethired-KarenV.png" width="700"></p>
 Karen Should logged into the domain computer as a domain user.
 <p align="center"><img src="img/9. KarenV in Windows Machine.png" width="700"></p>
+
+
 ---
+
+
 ## 🎯 Skills Demonstrated
 
 - Active Directory (Domain Services)
